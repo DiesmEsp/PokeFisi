@@ -1,0 +1,211 @@
+{
+  "movimientos": [
+    {
+      "id": 1,
+      "nombre": "Tóxico",
+      "tipo": "Veneno",
+      "potencia": 0,
+      "precision": 90,
+      "categoria": "estado",
+      "efecto": "envenena gradualmente"
+    },
+    {
+      "id": 2,
+      "nombre": "Danza Espada",
+      "tipo": "Normal",
+      "potencia": 0,
+      "precision": 100,
+      "categoria": "estado",
+      "efecto": "sube ataque"
+    },
+    {
+      "id": 3,
+      "nombre": "Golpe Cuerpo",
+      "tipo": "Normal",
+      "potencia": 85,
+      "precision": 100,
+      "categoria": "fisico",
+      "efecto": "puede paralizar"
+    },
+    {
+      "id": 4,
+      "nombre": "Rayo Hielo",
+      "tipo": "Hielo",
+      "potencia": 90,
+      "precision": 100,
+      "categoria": "especial",
+      "efecto": "puede congelar"
+    },
+    {
+      "id": 5,
+      "nombre": "Derribo",
+      "tipo": "Normal",
+      "potencia": 90,
+      "precision": 85,
+      "categoria": "fisico",
+      "efecto": "puede causar retroceso"
+    },
+    {
+      "id": 6,
+      "nombre": "Movimiento Sísmico",
+      "tipo": "Tierra",
+      "potencia": 100,
+      "precision": 100,
+      "categoria": "fisico",
+      "efecto": ""
+    },
+    {
+      "id": 7,
+      "nombre": "Poder Oculto",
+      "tipo": "Normal",
+      "potencia": 60,
+      "precision": 100,
+      "categoria": "especial",
+      "efecto": ""
+    },
+    {
+      "id": 8,
+      "nombre": "Rayo",
+      "tipo": "Eléctrico",
+      "potencia": 90,
+      "precision": 100,
+      "categoria": "especial",
+      "efecto": "puede paralizar"
+    },
+    {
+      "id": 9,
+      "nombre": "Terremoto",
+      "tipo": "Tierra",
+      "potencia": 100,
+      "precision": 100,
+      "categoria": "fisico",
+      "efecto": ""
+    },
+    {
+      "id": 10,
+      "nombre": "Corte",
+      "tipo": "Normal",
+      "potencia": 50,
+      "precision": 95,
+      "categoria": "fisico",
+      "efecto": ""
+    },
+    {
+      "id": 11,
+      "nombre": "Psíquico",
+      "tipo": "Psíquico",
+      "potencia": 90,
+      "precision": 100,
+      "categoria": "especial",
+      "efecto": "puede bajar defensa especial"
+    },
+    {
+      "id": 12,
+      "nombre": "Doble Equipo",
+      "tipo": "Normal",
+      "potencia": 0,
+      "precision": 100,
+      "categoria": "estado",
+      "efecto": "sube evasión"
+    },
+    {
+      "id": 13,
+      "nombre": "Llamarada",
+      "tipo": "Fuego",
+      "potencia": 90,
+      "precision": 100,
+      "categoria": "especial",
+      "efecto": "puede quemar"
+    },
+    {
+      "id": 14,
+      "nombre": "Descanso",
+      "tipo": "Psíquico",
+      "potencia": 0,
+      "precision": 100,
+      "categoria": "estado",
+      "efecto": "restaura HP y duerme"
+    },
+    {
+      "id": 15,
+      "nombre": "Onda Trueno",
+      "tipo": "Eléctrico",
+      "potencia": 0,
+      "precision": 90,
+      "categoria": "estado",
+      "efecto": "paraliza"
+    },
+    {
+      "id": 16,
+      "nombre": "Avalancha",
+      "tipo": "Hielo",
+      "potencia": 60,
+      "precision": 100,
+      "categoria": "fisico",
+      "efecto": "puede causar retroceso"
+    },
+    {
+      "id": 17,
+      "nombre": "Retribución",
+      "tipo": "Normal",
+      "potencia": 102,
+      "precision": 100,
+      "categoria": "fisico",
+      "efecto": ""
+    },
+    {
+      "id": 18,
+      "nombre": "Tornado",
+      "tipo": "Dragón",
+      "potencia": 40,
+      "precision": 100,
+      "categoria": "especial",
+      "efecto": ""
+    },
+    {
+      "id": 19,
+      "nombre": "Surf",
+      "tipo": "Agua",
+      "potencia": 90,
+      "precision": 100,
+      "categoria": "especial",
+      "efecto": ""
+    },
+    {
+      "id": 20,
+      "nombre": "Fuerza",
+      "tipo": "Normal",
+      "potencia": 80,
+      "precision": 100,
+      "categoria": "fisico",
+      "efecto": ""
+    },
+    {
+      "id": 21,
+      "nombre": "Foco Resplandor",
+      "tipo": "Acero",
+      "potencia": 80,
+      "precision": 100,
+      "categoria": "especial",
+      "efecto": ""
+    },
+    {
+      "id": 22,
+      "nombre": "Triturar",
+      "tipo": "Siniestro",
+      "potencia": 80,
+      "precision": 100,
+      "categoria": "fisico",
+      "efecto": "puede bajar defensa especial"
+    },
+    {
+      "id": 23,
+      "nombre": "Pulso Umbrío",
+      "tipo": "Siniestro",
+      "potencia": 80,
+      "precision": 100,
+      "categoria": "especial",
+      "efecto": "puede bajar defensa especial"
+    }
+  ]
+}
