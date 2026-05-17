@@ -1,0 +1,1136 @@
+{
+  "pokemons": [
+    {
+      "id": 1,
+      "name": "Torterra",
+      "level": 50,
+      "gender": null,
+      "gender_random": true,
+      "genderless": false,
+      "types": [
+        "Planta",
+        "Tierra"
+      ],
+      "stats": {
+        "hp": 170,
+        "attack": 161,
+        "defense": 125,
+        "special_attack": 85,
+        "special_defense": 106,
+        "speed": 118
+      },
+      "abilities": [
+        "Espesura"
+      ],
+      "state": null,
+      "move_ids": [
+        1,
+        5,
+        7,
+        9,
+        17,
+        20
+      ],
+      "sprite_files": {
+        "front": "torterra1.png",
+        "front_animated": "torterra2.png",
+        "back": "torterra_espalda1.png",
+        "back_animated": "torterra_espalda2.png"
+      }
+    },
+    {
+      "id": 2,
+      "name": "Infernape",
+      "level": 50,
+      "gender": null,
+      "gender_random": true,
+      "genderless": false,
+      "types": [
+        "Fuego",
+        "Lucha"
+      ],
+      "stats": {
+        "hp": 151,
+        "attack": 111,
+        "defense": 92,
+        "special_attack": 156,
+        "special_defense": 91,
+        "speed": 176
+      },
+      "abilities": [
+        "Mar Llamas"
+      ],
+      "state": null,
+      "move_ids": [
+        2,
+        3,
+        6,
+        9,
+        13,
+        20
+      ],
+      "sprite_files": {
+        "front": "infernape1.png",
+        "front_animated": "infernape2.png",
+        "back": "infernape_espalda1.png",
+        "back_animated": "infernape_espalda2.png"
+      }
+    },
+    {
+      "id": 3,
+      "name": "Empoleon",
+      "level": 50,
+      "gender": null,
+      "gender_random": true,
+      "genderless": false,
+      "types": [
+        "Agua",
+        "Acero"
+      ],
+      "stats": {
+        "hp": 177,
+        "attack": 95,
+        "defense": 108,
+        "special_attack": 165,
+        "special_defense": 121,
+        "speed": 107
+      },
+      "abilities": [
+        "Torrente"
+      ],
+      "state": null,
+      "move_ids": [
+        4,
+        9,
+        14,
+        17,
+        19,
+        21
+      ],
+      "sprite_files": {
+        "front": "empoleon1.png",
+        "front_animated": "empoleon2.png",
+        "back": "empoleon_espalda1.png",
+        "back_animated": "empoleon_espalda2.png"
+      }
+    },
+    {
+      "id": 4,
+      "name": "Staraptor",
+      "level": 50,
+      "gender": null,
+      "gender_random": true,
+      "genderless": false,
+      "types": [
+        "Normal",
+        "Vuelo"
+      ],
+      "stats": {
+        "hp": 160,
+        "attack": 172,
+        "defense": 91,
+        "special_attack": 63,
+        "special_defense": 80,
+        "speed": 167
+      },
+      "abilities": [
+        "Intimidación"
+      ],
+      "state": null,
+      "move_ids": [
+        1,
+        3,
+        14,
+        17,
+        18,
+        20
+      ],
+      "sprite_files": {
+        "front": "staraptor1.png",
+        "front_animated": "staraptor2.png",
+        "back": "staraptor_espalda1.png",
+        "back_animated": "staraptor_espalda2.png"
+      }
+    },
+    {
+      "id": 5,
+      "name": "Luxray",
+      "level": 50,
+      "gender": null,
+      "gender_random": true,
+      "genderless": false,
+      "types": [
+        "Eléctrico"
+      ],
+      "stats": {
+        "hp": 155,
+        "attack": 189,
+        "defense": 100,
+        "special_attack": 115,
+        "special_defense": 89,
+        "speed": 122
+      },
+      "abilities": [
+        "Intimidación"
+      ],
+      "state": null,
+      "move_ids": [
+        1,
+        3,
+        8,
+        14,
+        15,
+        17
+      ],
+      "sprite_files": {
+        "front": "luxray1.png",
+        "front_animated": "luxray2.png",
+        "back": "luxray_espalda1.png",
+        "back_animated": "luxray_espalda2.png"
+      }
+    },
+    {
+      "id": 6,
+      "name": "Roserade",
+      "level": 50,
+      "gender": null,
+      "gender_random": true,
+      "genderless": false,
+      "types": [
+        "Planta",
+        "Veneno"
+      ],
+      "stats": {
+        "hp": 135,
+        "attack": 81,
+        "defense": 85,
+        "special_attack": 177,
+        "special_defense": 126,
+        "speed": 156
+      },
+      "abilities": [
+        "Punto Tóxico"
+      ],
+      "state": null,
+      "move_ids": [
+        1,
+        2,
+        7,
+        12,
+        14,
+        17
+      ],
+      "sprite_files": {
+        "front": "roserade1.png",
+        "front_animated": "roserade2.png",
+        "back": "roserade_espalda1.png",
+        "back_animated": "roserade_espalda2.png"
+      }
+    },
+    {
+      "id": 7,
+      "name": "Gastrodon",
+      "level": 50,
+      "gender": null,
+      "gender_random": true,
+      "genderless": false,
+      "types": [
+        "Agua",
+        "Tierra"
+      ],
+      "stats": {
+        "hp": 218,
+        "attack": 103,
+        "defense": 132,
+        "special_attack": 112,
+        "special_defense": 103,
+        "speed": 53
+      },
+      "abilities": [
+        "Colector"
+      ],
+      "state": null,
+      "move_ids": [
+        1,
+        3,
+        4,
+        9,
+        14,
+        19
+      ],
+      "sprite_files": {
+        "front": "gastrodon1.png",
+        "front_animated": "gastrodon2.png",
+        "back": "gastrodon_espalda1.png",
+        "back_animated": "gastrodon_espalda2.png"
+      }
+    },
+    {
+      "id": 8,
+      "name": "Mismagius",
+      "level": 50,
+      "gender": null,
+      "gender_random": true,
+      "genderless": false,
+      "types": [
+        "Fantasma"
+      ],
+      "stats": {
+        "hp": 135,
+        "attack": 72,
+        "defense": 81,
+        "special_attack": 157,
+        "special_defense": 125,
+        "speed": 172
+      },
+      "abilities": [
+        "Levitación"
+      ],
+      "state": null,
+      "move_ids": [
+        1,
+        8,
+        11,
+        14,
+        15,
+        17
+      ],
+      "sprite_files": {
+        "front": "mismagius1.png",
+        "front_animated": "mismagius2.png",
+        "back": "mismagius_espalda1.png",
+        "back_animated": "mismagius_espalda2.png"
+      }
+    },
+    {
+      "id": 9,
+      "name": "Honchkrow",
+      "level": 50,
+      "gender": null,
+      "gender_random": true,
+      "genderless": false,
+      "types": [
+        "Siniestro",
+        "Vuelo"
+      ],
+      "stats": {
+        "hp": 175,
+        "attack": 177,
+        "defense": 72,
+        "special_attack": 112,
+        "special_defense": 73,
+        "speed": 135
+      },
+      "abilities": [
+        "Insomnio"
+      ],
+      "state": null,
+      "move_ids": [
+        11,
+        14,
+        15,
+        17,
+        18,
+        23
+      ],
+      "sprite_files": {
+        "front": "honchkrow1.png",
+        "front_animated": "honchkrow2.png",
+        "back": "honchkrow_espalda1.png",
+        "back_animated": "honchkrow_espalda2.png"
+      }
+    },
+    {
+      "id": 10,
+      "name": "Bronzong",
+      "level": 50,
+      "gender": null,
+      "gender_random": false,
+      "genderless": true,
+      "types": [
+        "Acero",
+        "Psíquico"
+      ],
+      "stats": {
+        "hp": 174,
+        "attack": 109,
+        "defense": 157,
+        "special_attack": 99,
+        "special_defense": 162,
+        "speed": 47
+      },
+      "abilities": [
+        "Levitación"
+      ],
+      "state": null,
+      "move_ids": [
+        1,
+        9,
+        11,
+        14,
+        17,
+        21
+      ],
+      "sprite_files": {
+        "front": "bronzong1.png",
+        "front_animated": "bronzong2.png",
+        "back": "bronzong_espalda1.png",
+        "back_animated": "bronzong_espalda2.png"
+      }
+    },
+    {
+      "id": 11,
+      "name": "Spiritomb",
+      "level": 50,
+      "gender": null,
+      "gender_random": true,
+      "genderless": false,
+      "types": [
+        "Fantasma",
+        "Siniestro"
+      ],
+      "stats": {
+        "hp": 157,
+        "attack": 112,
+        "defense": 128,
+        "special_attack": 158,
+        "special_defense": 129,
+        "speed": 49
+      },
+      "abilities": [
+        "Presión"
+      ],
+      "state": null,
+      "move_ids": [
+        1,
+        11,
+        12,
+        14,
+        17,
+        23
+      ],
+      "sprite_files": {
+        "front": "spiritomb1.png",
+        "front_animated": "spiritomb2.png",
+        "back": "spiritomb_espalda1.png",
+        "back_animated": "spiritomb_espalda2.png"
+      }
+    },
+    {
+      "id": 12,
+      "name": "Garchomp",
+      "level": 50,
+      "gender": null,
+      "gender_random": true,
+      "genderless": false,
+      "types": [
+        "Dragón",
+        "Tierra"
+      ],
+      "stats": {
+        "hp": 215,
+        "attack": 150,
+        "defense": 156,
+        "special_attack": 90,
+        "special_defense": 105,
+        "speed": 127
+      },
+      "abilities": [
+        "Velo Arena"
+      ],
+      "state": null,
+      "move_ids": [
+        1,
+        2,
+        9,
+        13,
+        17,
+        20
+      ],
+      "sprite_files": {
+        "front": "garchomp1.png",
+        "front_animated": "garchomp2.png",
+        "back": "garchomp_espalda1.png",
+        "back_animated": "garchomp_espalda2.png"
+      }
+    },
+    {
+      "id": 13,
+      "name": "Lucario",
+      "level": 50,
+      "gender": null,
+      "gender_random": true,
+      "genderless": false,
+      "types": [
+        "Lucha",
+        "Acero"
+      ],
+      "stats": {
+        "hp": 145,
+        "attack": 162,
+        "defense": 90,
+        "special_attack": 121,
+        "special_defense": 91,
+        "speed": 156
+      },
+      "abilities": [
+        "Fuerza Mental",
+        "Impasible"
+      ],
+      "state": null,
+      "move_ids": [
+        2,
+        3,
+        6,
+        9,
+        11,
+        21
+      ],
+      "sprite_files": {
+        "front": "lucario1.png",
+        "front_animated": "lucario2.png",
+        "back": "lucario_espalda1.png",
+        "back_animated": "lucario_espalda2.png"
+      }
+    },
+    {
+      "id": 14,
+      "name": "Hippowdon",
+      "level": 50,
+      "gender": null,
+      "gender_random": true,
+      "genderless": false,
+      "types": [
+        "Tierra"
+      ],
+      "stats": {
+        "hp": 214,
+        "attack": 132,
+        "defense": 167,
+        "special_attack": 79,
+        "special_defense": 111,
+        "speed": 67
+      },
+      "abilities": [
+        "Chorro Arena"
+      ],
+      "state": null,
+      "move_ids": [
+        1,
+        3,
+        9,
+        14,
+        16,
+        20
+      ],
+      "sprite_files": {
+        "front": "hippowdon1.png",
+        "front_animated": "hippowdon2.png",
+        "back": "hippowdon_espalda1.png",
+        "back_animated": "hippowdon_espalda2.png"
+      }
+    },
+    {
+      "id": 15,
+      "name": "Drapion",
+      "level": 50,
+      "gender": null,
+      "gender_random": true,
+      "genderless": false,
+      "types": [
+        "Veneno",
+        "Siniestro"
+      ],
+      "stats": {
+        "hp": 146,
+        "attack": 156,
+        "defense": 162,
+        "special_attack": 72,
+        "special_defense": 95,
+        "speed": 115
+      },
+      "abilities": [
+        "Francotirador"
+      ],
+      "state": null,
+      "move_ids": [
+        1,
+        2,
+        9,
+        10,
+        14,
+        22
+      ],
+      "sprite_files": {
+        "front": "drapion1.png",
+        "front_animated": "drapion2.png",
+        "back": "drapion_espalda1.png",
+        "back_animated": "drapion_espalda2.png"
+      }
+    },
+    {
+      "id": 16,
+      "name": "Weavile",
+      "level": 50,
+      "gender": null,
+      "gender_random": true,
+      "genderless": false,
+      "types": [
+        "Siniestro",
+        "Hielo"
+      ],
+      "stats": {
+        "hp": 145,
+        "attack": 172,
+        "defense": 85,
+        "special_attack": 58,
+        "special_defense": 106,
+        "speed": 194
+      },
+      "abilities": [
+        "Presión"
+      ],
+      "state": null,
+      "move_ids": [
+        1,
+        2,
+        4,
+        10,
+        17,
+        22
+      ],
+      "sprite_files": {
+        "front": "weavile1.png",
+        "front_animated": "weavile2.png",
+        "back": "weavile_espalda1.png",
+        "back_animated": "weavile_espalda2.png"
+      }
+    },
+    {
+      "id": 17,
+      "name": "Togekiss",
+      "level": 50,
+      "gender": null,
+      "gender_random": true,
+      "genderless": false,
+      "types": [
+        "Normal",
+        "Volador"
+      ],
+      "stats": {
+        "hp": 192,
+        "attack": 63,
+        "defense": 115,
+        "special_attack": 159,
+        "special_defense": 163,
+        "speed": 100
+      },
+      "abilities": [
+        "Entusiasmo"
+      ],
+      "state": null,
+      "move_ids": [
+        7,
+        11,
+        13,
+        15,
+        17,
+        18
+      ],
+      "sprite_files": {
+        "front": "togekiss1.png",
+        "front_animated": "togekiss2.png",
+        "back": "togekiss_espalda1.png",
+        "back_animated": "togekiss_espalda2.png"
+      }
+    },
+    {
+      "id": 18,
+      "name": "Magnezone",
+      "level": 50,
+      "gender": null,
+      "gender_random": false,
+      "genderless": true,
+      "types": [
+        "Eléctrico",
+        "Acero"
+      ],
+      "stats": {
+        "hp": 145,
+        "attack": 81,
+        "defense": 135,
+        "special_attack": 200,
+        "special_defense": 111,
+        "speed": 112
+      },
+      "abilities": [
+        "Robustez"
+      ],
+      "state": null,
+      "move_ids": [
+        1,
+        8,
+        14,
+        15,
+        17,
+        21
+      ],
+      "sprite_files": {
+        "front": "magnezone1.png",
+        "front_animated": "magnezone2.png",
+        "back": "magnezone_espalda1.png",
+        "back_animated": "magnezone_espalda2.png"
+      }
+    },
+    {
+      "id": 19,
+      "name": "Gliscor",
+      "level": 50,
+      "gender": null,
+      "gender_random": true,
+      "genderless": false,
+      "types": [
+        "Tierra",
+        "Vuelo"
+      ],
+      "stats": {
+        "hp": 181,
+        "attack": 100,
+        "defense": 150,
+        "special_attack": 58,
+        "special_defense": 136,
+        "speed": 115
+      },
+      "abilities": [
+        "Velo Arena"
+      ],
+      "state": null,
+      "move_ids": [
+        1,
+        2,
+        9,
+        14,
+        16,
+        17
+      ],
+      "sprite_files": {
+        "front": "gliscor1.png",
+        "front_animated": "gliscor2.png",
+        "back": "gliscor_espalda1.png",
+        "back_animated": "gliscor_espalda2.png"
+      }
+    },
+    {
+      "id": 20,
+      "name": "Gallade",
+      "level": 50,
+      "gender": "Macho",
+      "gender_random": false,
+      "genderless": false,
+      "types": [
+        "Psíquico",
+        "Lucha"
+      ],
+      "stats": {
+        "hp": 143,
+        "attack": 177,
+        "defense": 85,
+        "special_attack": 76,
+        "special_defense": 136,
+        "speed": 145
+      },
+      "abilities": [
+        "Impasible"
+      ],
+      "state": null,
+      "move_ids": [
+        1,
+        2,
+        3,
+        9,
+        11,
+        15
+      ],
+      "sprite_files": {
+        "front": "gallade1.png",
+        "front_animated": "gallade2.png",
+        "back": "gallade_espalda1.png",
+        "back_animated": "gallade_espalda2.png"
+      }
+    },
+    {
+      "id": 21,
+      "name": "Leafeon",
+      "level": 50,
+      "gender": null,
+      "gender_random": true,
+      "genderless": false,
+      "types": [
+        "Planta"
+      ],
+      "stats": {
+        "hp": 140,
+        "attack": 178,
+        "defense": 150,
+        "special_attack": 72,
+        "special_defense": 86,
+        "speed": 147
+      },
+      "abilities": [
+        "Defensa Hoja"
+      ],
+      "state": null,
+      "move_ids": [
+        1,
+        2,
+        3,
+        7,
+        10,
+        17
+      ],
+      "sprite_files": {
+        "front": "leafeon1.png",
+        "front_animated": "leafeon2.png",
+        "back": "leafeon_espalda1.png",
+        "back_animated": "leafeon_espalda2.png"
+      }
+    },
+    {
+      "id": 22,
+      "name": "Glaceon",
+      "level": 50,
+      "gender": null,
+      "gender_random": true,
+      "genderless": false,
+      "types": [
+        "Hielo"
+      ],
+      "stats": {
+        "hp": 141,
+        "attack": 72,
+        "defense": 162,
+        "special_attack": 200,
+        "special_defense": 115,
+        "speed": 85
+      },
+      "abilities": [
+        "Manto Níveo"
+      ],
+      "state": null,
+      "move_ids": [
+        1,
+        3,
+        4,
+        12,
+        14,
+        17
+      ],
+      "sprite_files": {
+        "front": "glaceon1.png",
+        "front_animated": "glaceon2.png",
+        "back": "glaceon_espalda1.png",
+        "back_animated": "glaceon_espalda2.png"
+      }
+    },
+    {
+      "id": 23,
+      "name": "Yanmega",
+      "level": 50,
+      "gender": null,
+      "gender_random": true,
+      "genderless": false,
+      "types": [
+        "Bicho",
+        "Vuelo"
+      ],
+      "stats": {
+        "hp": 161,
+        "attack": 86,
+        "defense": 106,
+        "special_attack": 184,
+        "special_defense": 77,
+        "speed": 147
+      },
+      "abilities": [
+        "Impulso"
+      ],
+      "state": null,
+      "move_ids": [
+        1,
+        7,
+        11,
+        12,
+        14,
+        17
+      ],
+      "sprite_files": {
+        "front": "yanmega1.png",
+        "front_animated": "yanmega2.png",
+        "back": "yanmega_espalda1.png",
+        "back_animated": "yanmega_espalda2.png"
+      }
+    },
+    {
+      "id": 24,
+      "name": "Rhyperior",
+      "level": 50,
+      "gender": null,
+      "gender_random": true,
+      "genderless": false,
+      "types": [
+        "Tierra",
+        "Roca"
+      ],
+      "stats": {
+        "hp": 222,
+        "attack": 178,
+        "defense": 150,
+        "special_attack": 67,
+        "special_defense": 105,
+        "speed": 60
+      },
+      "abilities": [
+        "Roca Sólida"
+      ],
+      "state": null,
+      "move_ids": [
+        2,
+        9,
+        13,
+        16,
+        19,
+        20
+      ],
+      "sprite_files": {
+        "front": "rhyperior1.png",
+        "front_animated": "rhyperior2.png",
+        "back": "rhyperior_espalda1.png",
+        "back_animated": "rhyperior_espalda2.png"
+      }
+    },
+    {
+      "id": 25,
+      "name": "Dusknoir",
+      "level": 50,
+      "gender": null,
+      "gender_random": true,
+      "genderless": false,
+      "types": [
+        "Fantasma"
+      ],
+      "stats": {
+        "hp": 152,
+        "attack": 167,
+        "defense": 155,
+        "special_attack": 76,
+        "special_defense": 156,
+        "speed": 65
+      },
+      "abilities": [
+        "Presión"
+      ],
+      "state": null,
+      "move_ids": [
+        1,
+        3,
+        9,
+        11,
+        14,
+        16
+      ],
+      "sprite_files": {
+        "front": "dusknoir1.png",
+        "front_animated": "dusknoir2.png",
+        "back": "dusknoir_espalda1.png",
+        "back_animated": "dusknoir_espalda2.png"
+      }
+    },
+    {
+      "id": 26,
+      "name": "Porygon-Z",
+      "level": 50,
+      "gender": null,
+      "gender_random": false,
+      "genderless": true,
+      "types": [
+        "Normal"
+      ],
+      "stats": {
+        "hp": 160,
+        "attack": 90,
+        "defense": 90,
+        "special_attack": 205,
+        "special_defense": 96,
+        "speed": 142
+      },
+      "abilities": [
+        "Adaptable"
+      ],
+      "state": null,
+      "move_ids": [
+        1,
+        4,
+        5,
+        8,
+        11,
+        15
+      ],
+      "sprite_files": {
+        "front": "porygon_z1.png",
+        "front_animated": "porygon_z2.png",
+        "back": "porygon_z_espalda1.png",
+        "back_animated": "porygon_z_espalda2.png"
+      }
+    },
+    {
+      "id": 27,
+      "name": "Electivire",
+      "level": 50,
+      "gender": null,
+      "gender_random": true,
+      "genderless": false,
+      "types": [
+        "Eléctrico"
+      ],
+      "stats": {
+        "hp": 169,
+        "attack": 192,
+        "defense": 101,
+        "special_attack": 115,
+        "special_defense": 94,
+        "speed": 115
+      },
+      "abilities": [
+        "Electromotor"
+      ],
+      "state": null,
+      "move_ids": [
+        6,
+        8,
+        9,
+        11,
+        15,
+        20
+      ],
+      "sprite_files": {
+        "front": "electivire1.png",
+        "front_animated": "electivire2.png",
+        "back": "electivire_espalda1.png",
+        "back_animated": "electivire_espalda2.png"
+      }
+    },
+    {
+      "id": 28,
+      "name": "Magmortar",
+      "level": 50,
+      "gender": null,
+      "gender_random": true,
+      "genderless": false,
+      "types": [
+        "Fuego"
+      ],
+      "stats": {
+        "hp": 150,
+        "attack": 103,
+        "defense": 88,
+        "special_attack": 177,
+        "special_defense": 115,
+        "speed": 148
+      },
+      "abilities": [
+        "Cuerpo Llama"
+      ],
+      "state": null,
+      "move_ids": [
+        1,
+        3,
+        7,
+        9,
+        11,
+        13
+      ],
+      "sprite_files": {
+        "front": "magmortar1.png",
+        "front_animated": "magmortar2.png",
+        "back": "magmortar_espalda1.png",
+        "back_animated": "magmortar_espalda2.png"
+      }
+    },
+    {
+      "id": 29,
+      "name": "Mamoswine",
+      "level": 50,
+      "gender": null,
+      "gender_random": true,
+      "genderless": false,
+      "types": [
+        "Hielo",
+        "Tierra"
+      ],
+      "stats": {
+        "hp": 185,
+        "attack": 200,
+        "defense": 101,
+        "special_attack": 81,
+        "special_defense": 80,
+        "speed": 132
+      },
+      "abilities": [
+        "Manto Níveo"
+      ],
+      "state": null,
+      "move_ids": [
+        1,
+        4,
+        9,
+        14,
+        16,
+        20
+      ],
+      "sprite_files": {
+        "front": "mamoswine1.png",
+        "front_animated": "mamoswine2.png",
+        "back": "mamoswine_espalda1.png",
+        "back_animated": "mamoswine_espalda2.png"
+      }
+    },
+    {
+      "id": 30,
+      "name": "Froslass",
+      "level": 50,
+      "gender": "Hembra",
+      "gender_random": false,
+      "genderless": false,
+      "types": [
+        "Hielo",
+        "Fantasma"
+      ],
+      "stats": {
+        "hp": 145,
+        "attack": 132,
+        "defense": 90,
+        "special_attack": 90,
+        "special_defense": 91,
+        "speed": 178
+      },
+      "abilities": [
+        "Manto Níveo"
+      ],
+      "state": null,
+      "move_ids": [
+        1,
+        4,
+        8,
+        11,
+        14,
+        15
+      ],
+      "sprite_files": {
+        "front": "froslass1.png",
+        "front_animated": "froslass2.png",
+        "back": "froslass_espalda1.png",
+        "back_animated": "froslass_espalda2.png"
+      }
+    }
+  ]
+}
