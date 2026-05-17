@@ -14,8 +14,8 @@ Aquí se enseña cómo:
 - crear un menú interactivo simple para pruebas y demostración
 """
 
-from tests.movimiento import Movimiento
-from tests.pokemon import Pokemon
+from movimiento import Movimiento
+from pokemon import Pokemon
 
 
 def mostrar_lista_pokemons(pokemons: list[Pokemon]) -> None:
